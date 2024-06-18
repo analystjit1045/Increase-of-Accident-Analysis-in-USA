@@ -1,5 +1,6 @@
 # Increase-of-Accident-Analysis-in-USA
 EXPLORATORY ANALYSIS ABOUT THE ACCIDENTS HAPPENING IN USA
+
 #RECOMMENDATION :
 1. Targeted Road Safety Campaigns: States with a high number of drivers involved in fatal collisions per billion miles driven, such as Arkansas, Kentucky, Montana, and Alabama, should prioritize road safety awareness campaigns. These campaigns should focus on promoting safe driving practices, addressing speeding, and discouraging impaired driving.
 
